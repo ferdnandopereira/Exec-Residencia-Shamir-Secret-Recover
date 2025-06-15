@@ -19,5 +19,5 @@ Este projeto demonstra como recuperar uma chave privada a partir de **shares** (
 3. Aplica o hash SHA-256 no segredo reconstruído.
 4. Usa o digest SHA256 como **seed** para derivar a chave privada Ed25519.
 5. Extrai a chave pública e a imprime em formato Base64.
-
+6. Compile e execute: go run main.go
 ---
