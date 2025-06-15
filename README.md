@@ -21,3 +21,6 @@ Este projeto demonstra como recuperar uma chave privada a partir de **shares** (
 5. Extrai a chave pública e a imprime em formato Base64.
 6. Compile e execute: go run main.go
 ---
+## Chave pública base64 esperada:
+- 2cWznmgeKFdehtJeGzy/zhEiwrYDUYenJZDQpfiWcrQ=
+
